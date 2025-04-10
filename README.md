@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       <td>
         <!-- Technology Icons Row 2 -->
         <div align="center" style="padding-left: 30px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
           <img width="12" />
@@ -89,20 +89,14 @@ Here are some ideas to get you started:
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android Studio" />
           <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="SQL" />
         </div>
       </td>
     </tr>
     <tr>
-      <td>
-        <!-- Technology Icons Row 5 -->
-        <div align="center" style="padding-right: 30px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" height="40" alt="Machine Learning" />
-        </div>
-      </td>
         <!-- Inspirational Art -->
-        <div align="center" style="padding-left: 30px;">
-          <img height="200" src="https://images.unsplash.com/photo-1565060127-d8a9172f55c6" alt="Inspirational Wolf Art" />
+        <div align="center" style="padding-left: 50px;">
+          <img height="200" src="https://img.freepik.com/fotos-gratis/constelacao-de-animais-fantasticos_23-2151708274.jpg?semt=ais_hybrid&w=740" alt="Inspirational Wolf Art" />
         </div>
       </td>
     </tr>
