@@ -89,7 +89,7 @@ Here are some ideas to get you started:
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android Studio" />
           <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="SQL" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL" />
         </div>
       </td>
     </tr>
