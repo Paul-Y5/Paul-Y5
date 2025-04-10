@@ -81,9 +81,28 @@ Here are some ideas to get you started:
         </div>
       </td>
       <td>
+        <!-- Technology Icons Row 4 -->
+        <div align="center" style="padding-left: 30px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android Studio" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Technology Icons Row 5 -->
+        <div align="center" style="padding-right: 30px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" height="40" alt="Machine Learning" />
+        </div>
+      </td>
         <!-- Inspirational Art -->
         <div align="center" style="padding-left: 30px;">
-          <img height="200" src="https://pics.craiyon.com/2023-06-18/c6bbfa61d93d474bbc2149a43ad504e5.webp" alt="Inspirational Art" />
+          <img height="200" src="https://images.unsplash.com/photo-1565060127-d8a9172f55c6" alt="Inspirational Wolf Art" />
         </div>
       </td>
     </tr>
