@@ -19,20 +19,13 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h1>👋 Welcome to My GitHub Profile!</h1>
-  <p>I'm Paul, a passionate developer who loves to explore and create!</p>
-</div>
-
-<div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paul-Y5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paul-Y5&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-<!-- Animated Snake -->
-<div align="center">
-  <img src="https://github.com/Paul-Y5/Paul-Y5/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
