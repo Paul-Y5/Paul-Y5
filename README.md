@@ -87,10 +87,6 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-        <!-- Inspirational Art -->
-        <div align="center" style="padding-left: 50px;">
-          <img height="200" src="https://img.freepik.com/fotos-gratis/constelacao-de-animais-fantasticos_23-2151708274.jpg?semt=ais_hybrid&w=740" alt="Inspirational Wolf Art" />
-        </div>
       </td>
     </tr>
   </table>
