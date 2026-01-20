@@ -7,10 +7,13 @@ I believe technology should serve people, so I focus on building practical appli
 
 ## 🎓 About Me
 
-- 🎯 Currently pursuing **Computer Engineering** at **Universidade de Aveiro (UA)**
-- 💡 Passionate about **software development**, **system design**, and **problem-solving**
-- 🌱 Always learning and exploring new technologies
-- 🔍 Interested in **AI**, **mobile apps**, and **software architecture**
+Final-year **Computer Engineering** student at **Universidade de Aveiro** with hands-on experience in:
+- 📱 Mobile app development (Flutter/Android)
+- 🌐 Full-stack web solutions (React, Node.js, TypeScript)
+- 🤖 AI/ML projects (Python, NumPy, Pytorch)
+- 🗄️ Database design and backend systems (SQL, Java)
+
+Currently seeking opportunities in **backend development**, **AI engineering**, or **mobile development** where I can apply problem-solving skills to build impactful solutions.
 
 ### 🎨 Beyond Code
 
@@ -19,8 +22,8 @@ When I'm not coding, you can find me:
 - 📚 **Reading** - Tech blogs and staying updated with industry trends
 - ⚽ **Sports** - Staying active and maintaining a healthy work-life balance with football
 - 🎵 **Music** - Finding inspiration and focus through different genres
-- 🚒 Volunteer Firefighter - Serving my community and helping others when they need it most
-- 🌍 Tech Communities - Engaging with developer communities and sharing knowledge
+- 🚒 **Volunteer Firefighter** - Serving my community and helping others when they need it most
+- 🌍 **Tech Communities** - Engaging with developer communities and sharing knowledge
 
 ---
 
