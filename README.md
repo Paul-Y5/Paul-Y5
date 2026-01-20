@@ -93,7 +93,6 @@ Brief description of what the project does and technologies used.
 </div>
 
 <div align="center">
-  "Code is like humor. When you have to explain it, it's bad." - Cory House
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Paul-Y5)
   
