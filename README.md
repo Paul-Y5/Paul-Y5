@@ -93,7 +93,6 @@ Brief description of what the project does and technologies used.
 </div>
 
 <div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Paul-Y5/count.svg)
+  ![](https://komarev.com/ghpvc/?username=Paul-Y5)
   
 </div>
