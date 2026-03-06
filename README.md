@@ -1,11 +1,11 @@
-# Hi there, I'm Paulo 👋
+# Hi! I'm Paulo
 
 ### Computer Engineering Student @ University of Aveiro
 
 I believe technology should serve people, so I focus on building practical applications and tools that make a real difference in everyday life. Whether it's a mobile app, a web module, or an automated solution, I'm driven by the idea that good software can genuinely help others.
 ---
 
-## 🎓 About Me
+## About Me
 
 Final-year **Computer Engineering** student at **Universidade de Aveiro** with hands-on experience in:
 - 📱 Mobile app development (Flutter/Android)
@@ -15,7 +15,7 @@ Final-year **Computer Engineering** student at **Universidade de Aveiro** with h
 
 Currently seeking opportunities in **backend development**, **AI engineering**, or **mobile development** where I can apply problem-solving skills to build impactful solutions.
 
-### 🎨 Beyond Code
+### Beyond Code
 
 When I'm not coding, you can find me:
 - 🎮 **Gaming** - Exploring virtual worlds and game mechanics
@@ -27,7 +27,7 @@ When I'm not coding, you can find me:
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -68,7 +68,7 @@ When I'm not coding, you can find me:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -77,7 +77,7 @@ When I'm not coding, you can find me:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- Add your best projects here when you have them -->
 <!-- Example:
