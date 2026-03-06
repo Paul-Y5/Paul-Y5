@@ -9,7 +9,7 @@ I believe technology should serve people, so I focus on building practical appli
 
 Final-year **Computer Engineering** student at **Universidade de Aveiro** with hands-on experience in:
 - 📱 Mobile app development (Flutter/Android)
-- 🌐 Full-stack web solutions (React, Node.js, TypeScript)
+- 🌐 Full-stack web solutions (React, TypeScript)
 - 🤖 AI/ML projects (Python, NumPy, Pytorch)
 - 🗄️ Database design and backend systems (SQL, Java)
 
@@ -104,5 +104,5 @@ Brief description of what the project does and technologies used.
 ---
 
 <div align="center">
-  <i>💭 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
