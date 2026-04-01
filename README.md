@@ -79,7 +79,7 @@ When I'm not coding, you can find me:
 
 ## Featured Projects
 
-### 📊 Accounting Excel to PDF (Work developed for a specific enterprise)
+### 📊 [Accounting Excel to PDF](https://github.com/Paul-Y5/accounting-excel-to-pdf) (Work developed for a specific enterprise)
 - Built a Python-based system to convert accounting Excel files into structured PDF reports
 - Parsed and processed spreadsheet data using data manipulation libraries
 - Generated formatted PDFs programmatically for consistent document output
@@ -89,7 +89,7 @@ When I'm not coding, you can find me:
 
 ## 🤝 Collaborative Work
 
-### PEI-HAZARDS (6G-VERSUS Project)
+### [PEI-HAZARDS](https://github.com/PEI-HAZARDS) (6G-VERSUS Project)
 - Developed components for hazard monitoring and alert systems
 - Integrated external data sources/APIs for real-time risk detection
 - Contributed to backend logic and system architecture for scalable processing
