@@ -70,10 +70,10 @@ When I'm not coding, you can find me:
 
 ## GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Y5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Y5&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
@@ -101,8 +101,7 @@ When I'm not coding, you can find me:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauladascardoso@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/paulo-cunha-56aaa2316/))
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paul-Y5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](www.linkedin.com/in/paulo-cunha5))
 
 </div>
 
