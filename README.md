@@ -79,16 +79,21 @@ When I'm not coding, you can find me:
 
 ## Featured Projects
 
-<!-- Add your best projects here when you have them -->
-<!-- Example:
-### [Project Name](link)
-Brief description of what the project does and technologies used.
-- 🔧 **Tech Stack:** React, Node.js, MongoDB
-- ⭐ **Highlights:** Feature 1, Feature 2
--->
+### 📊 Accounting Excel to PDF (Work developed for a specific enterprise)
+- Built a Python-based system to convert accounting Excel files into structured PDF reports
+- Parsed and processed spreadsheet data using data manipulation libraries
+- Generated formatted PDFs programmatically for consistent document output
+- Automated repetitive reporting tasks, improving efficiency and reducing human error
 
-*Coming soon! Currently working on exciting projects as part of my degree.*
+---
 
+## 🤝 Collaborative Work
+
+### PEI-HAZARDS (6G-VERSUS Project)
+- Developed components for hazard monitoring and alert systems
+- Integrated external data sources/APIs for real-time risk detection
+- Contributed to backend logic and system architecture for scalable processing
+- Improved system reliability and responsiveness in critical scenarios
 ---
 
 ## 📫 Get in Touch
