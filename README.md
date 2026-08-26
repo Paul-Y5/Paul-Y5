@@ -70,11 +70,9 @@ When I'm not coding, you can find me:
 
 ## GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Y5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Y5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" /> </p>
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Paul-Y5&theme=tokyonight&hide_border=true" height="170" /> </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paul-Y5&theme=tokyo-night&hide_border=true" width="95%" /> </p>
 
 ---
 
