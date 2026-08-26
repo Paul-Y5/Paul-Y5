@@ -70,9 +70,9 @@ When I'm not coding, you can find me:
 
 ## GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Y5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" /> </p>
+<p align="center"> <a href="https://github.com/Paul-Y5"> <img src="https://img.shields.io/github/followers/Paul-Y5?label=Followers&style=for-the-badge" /> </a> <a href="https://github.com/Paul-Y5?tab=repositories"> <img src="https://img.shields.io/github/stars/Paul-Y5?label=Stars&style=for-the-badge" /> </a> <a href="https://github.com/Paul-Y5"> <img src="https://img.shields.io/github/commit-activity/y/Paul-Y5?style=for-the-badge" /> </a> </p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Paul-Y5&theme=tokyonight&hide_border=true" height="170" /> </p>
+<p align="center"> <a href="https://github.com/Paul-Y5?tab=repositories"> <img src="https://img.shields.io/github/last-commit/Paul-Y5?style=for-the-badge" /> </a> <a href="https://github.com/Paul-Y5?tab=repositories"> <img src="https://img.shields.io/github/repos/Paul-Y5?style=for-the-badge" /> </a> </p>
 
 ---
 
