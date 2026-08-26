@@ -70,9 +70,15 @@ When I'm not coding, you can find me:
 
 ## GitHub Statistics
 
-<p align="center"> <a href="https://github.com/Paul-Y5"> <img src="https://img.shields.io/github/followers/Paul-Y5?label=Followers&style=for-the-badge" /> </a> <a href="https://github.com/Paul-Y5?tab=repositories"> <img src="https://img.shields.io/github/stars/Paul-Y5?label=Stars&style=for-the-badge" /> </a> <a href="https://github.com/Paul-Y5"> <img src="https://img.shields.io/github/commit-activity/y/Paul-Y5?style=for-the-badge" /> </a> </p>
-
-<p align="center"> <a href="https://github.com/Paul-Y5?tab=repositories"> <img src="https://img.shields.io/github/last-commit/Paul-Y5?style=for-the-badge" /> </a> <a href="https://github.com/Paul-Y5?tab=repositories"> <img src="https://img.shields.io/github/repos/Paul-Y5?style=for-the-badge" /> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Y5&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Y5&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Paul-Y5&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
