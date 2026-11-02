@@ -7,7 +7,7 @@ I believe technology should serve people, so I focus on building practical appli
 
 ## About Me
 
-Final-year **Computer Engineering** student at **Universidade de Aveiro** with hands-on experience in:
+**Computer Engineering** at **Universidade de Aveiro** with hands-on experience in:
 - 📱 Mobile app development (Flutter/Android)
 - 🌐 Full-stack web solutions (React, TypeScript)
 - 🤖 AI/ML projects (Python, NumPy, Pytorch)
